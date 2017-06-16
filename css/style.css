@@ -1,0 +1,37 @@
+body {
+  font-family: sans-serif;
+}
+
+h1 {
+	text-align: center;
+}
+
+form {
+	margin: 30px 0 30px 0;
+	text-align: center;
+}
+
+button {
+	margin-left: 8px;
+}
+
+img {
+	width: 300px;
+	height: 300px;
+}
+
+.cont {
+	margin-top: 35px;
+}
+
+.media-body {
+	padding-left: 10px;
+}
+
+.center {
+	text-align: center;
+}
+
+footer {
+	height: 60px;
+}
